@@ -1,0 +1,7 @@
+[package]
+name = "zmq-has-sample"
+version = "0.1.0"
+authors = ["Vyacheslav Gudkov <vyacheslav.gudkov@dsr-company.com>"]
+
+[dependencies]
+zmq = "0.8.2"
